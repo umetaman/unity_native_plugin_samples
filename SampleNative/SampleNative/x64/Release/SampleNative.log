@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  SampleNative.cpp
+     ライブラリ C:\Users\umetaman\Documents\lecture\Unity\NativePluginSamples\SampleNative\x64\Release\SampleNative.lib とオブジェクト C:\Users\umetaman\Documents\lecture\Unity\NativePluginSamples\SampleNative\x64\Release\SampleNative.exp を作成中
+  コード生成しています。
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  SampleNative.vcxproj -> C:\Users\umetaman\Documents\lecture\Unity\NativePluginSamples\SampleNative\x64\Release\SampleNative.dll

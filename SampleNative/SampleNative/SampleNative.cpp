@@ -2,5 +2,8 @@
 //
 
 #include "stdafx.h"
+#include "SampleNative.h"
 
-
+SAMPLENATIVE_API int AddInt(int& i) {
+	return i + 1;
+}
